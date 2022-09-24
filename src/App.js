@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import { StopWatch } from './components/StopWatch';
-import { Timer } from './components/Timer';
+import { Structure } from './Components/Structure.jsx';
 
 function App() {
+
   return (
-    <div className="App">
-      <StopWatch/>
-      <Timer/>
+    <div >
+      { <Structure/> }
+ 
     </div>
   );
 }
