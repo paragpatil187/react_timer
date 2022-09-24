@@ -1,5 +1,5 @@
 import './App.css';
-import { Structure } from './Components/Structure.jsx';
+import { Structure } from './components/Structure.jsx';
 
 function App() {
 
